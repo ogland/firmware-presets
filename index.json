@@ -370,7 +370,7 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/osd/Olof OSD.txt",
+      "fullPath": "presets/4.3/osd/olof_osd.txt",
       "hash": "e88b11cbd2e54823209edaa1a1eec34176619b95d570c276172833ae2af4d1c5",
       "title": "Olof 4.3 OSD settings",
       "firmware_version": [
@@ -445,7 +445,7 @@
     },
     {
       "fullPath": "presets/4.3/other/olof_misc.txt",
-      "hash": "c605901267853e5ceff4a494d010229369df25d38a9bed3fc0220d71a217c5db",
+      "hash": "c290181951d7d758f0d68767fd8b4b30a9b25db536d30e0faf9093b8f9c104df",
       "title": "Olof personalized settings",
       "firmware_version": [
         "4.3"
@@ -1160,7 +1160,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/olof_aos_apex.txt",
-      "hash": "ba0d499ee9f40b2822deddf105f50cfb3f459358ef60384d0e28a73560669f53",
+      "hash": "e3c7fae343f80766233478a4cb6ee6482dffa3f7176d502d8be684e462ead91c",
       "title": "Olof AOS v2 3.5 and micro apex 3",
       "firmware_version": [
         "4.3"
@@ -1169,6 +1169,22 @@
       "status": "EXPERIMENTAL",
       "keywords": [
         "4S"
+      ],
+      "author": "Olof Ogland",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/olof_micro_apex_5.txt",
+      "hash": "3a25a52fcb3328087b5ab56a6a231c718b41cbb6df0fe1a67dc1d31bf5d1575a",
+      "title": "Olof Micro apex 5",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "4S",
+        "6S"
       ],
       "author": "Olof Ogland",
       "priority": 1000000000000

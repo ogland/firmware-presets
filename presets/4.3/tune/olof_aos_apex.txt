@@ -29,8 +29,11 @@ set dyn_notch_count = 1
 set dyn_notch_q = 500
 set gyro_lpf1_dyn_min_hz = 0
 set gyro_lpf1_dyn_max_hz = 875
+set simplified_gyro_filter_multiplier = 150
 
 # -- PID Settings --
+set pidsum_limit = 1000
+set pidsum_limit_yaw = 1000
 set vbat_sag_compensation = 100
 set p_pitch = 91
 set i_pitch = 130
@@ -62,4 +65,9 @@ set thrust_linear = 20
 
 #$ OPTION BEGIN (UNCHECKED): Dynamic Idle
 set dyn_idle_min_rpm = 40
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): Orientation
+set gyro_1_sensor_align = CW0FLIP
+set gyro_1_align_pitch = 1800
 #$ OPTION END
