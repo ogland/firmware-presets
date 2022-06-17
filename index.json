@@ -158,6 +158,7 @@
       "Jye Smith",
       "MrAlucardDante",
       "NemesisXB",
+      "Olof Ogland",
       "Sjoer van der Ploeg",
       "sugarK",
       "UAV Tech (Mark Spatz)"
@@ -224,6 +225,7 @@
       "irc",
       "IRC Tramp",
       "karatebrot",
+      "Kiss",
       "launch",
       "launch_mode",
       "leds",
@@ -231,11 +233,13 @@
       "log",
       "logging",
       "long range",
+      "misc",
       "mode",
       "modes",
       "names",
       "nano",
       "nanohawk",
+      "Olof",
       "OP400",
       "OpenVTx",
       "OSD",
@@ -366,6 +370,21 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/osd/Olof OSD.txt",
+      "hash": "e88b11cbd2e54823209edaa1a1eec34176619b95d570c276172833ae2af4d1c5",
+      "title": "Olof 4.3 OSD settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "Olof Ogland",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/other/blackbox_disable.txt",
       "hash": "71fc4b4cc44366fbbd91ad1aaf882cddd103fae91c4230988a5ebbb67b6bac5d",
       "title": "4.3 Blackbox disable settings",
@@ -422,6 +441,21 @@
         "Garban"
       ],
       "author": "Garban",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/olof_misc.txt",
+      "hash": "c605901267853e5ceff4a494d010229369df25d38a9bed3fc0220d71a217c5db",
+      "title": "Olof personalized settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "misc"
+      ],
+      "author": "Olof Ogland",
       "priority": 0
     },
     {
@@ -566,6 +600,23 @@
         "actual"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/rates/olof_rates.txt",
+      "hash": "9a0db7be7a2ecc5ca6f02046313406ae5320c67a1277a3cc766407c38a3c188a",
+      "title": "Olof rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Olof",
+        "rates",
+        "Kiss"
+      ],
+      "author": "Olof Ogland",
       "priority": 0
     },
     {
@@ -1106,6 +1157,21 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/tune/olof_aos_apex.txt",
+      "hash": "ba0d499ee9f40b2822deddf105f50cfb3f459358ef60384d0e28a73560669f53",
+      "title": "Olof AOS v2 3.5 and micro apex 3",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "4S"
+      ],
+      "author": "Olof Ogland",
+      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/reset_all.txt",

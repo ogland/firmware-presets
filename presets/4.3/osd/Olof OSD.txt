@@ -1,0 +1,17 @@
+#$ TITLE: Olof 4.3 OSD settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: OSD
+#$ AUTHOR: Olof Ogland
+#$ DESCRIPTION: Sets Olofs OSD
+
+set osd_rssi_pos = 2487
+set osd_link_quality_pos = 2519
+set osd_tim_1_pos = 2476
+set osd_current_pos = 2497
+set osd_mah_drawn_pos = 2466
+set osd_altitude_pos = 18456
+set osd_warnings_pos = 14633
+set osd_avg_cell_voltage_pos = 2508
+set osd_flip_arrow_pos = 2062

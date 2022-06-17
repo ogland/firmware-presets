@@ -1,0 +1,18 @@
+#$ TITLE: Olof personalized settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OTHER
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: misc
+#$ AUTHOR: Olof Ogland
+#$ DESCRIPTION: Does stuff
+
+# beacon
+beacon RX_LOST
+beacon RX_SET
+
+# aux
+aux 0 0 0 1700 2100 0 0
+aux 1 1 1 1300 1700 0 0
+aux 2 2 1 1700 2100 0 0
+aux 3 13 4 1700 2100 0 0
+aux 4 35 2 1700 2100 0 0
