@@ -203,7 +203,6 @@
       "DDC",
       "default",
       "defaults",
-      "diatone",
       "digital",
       "disable",
       "divimath",
@@ -232,7 +231,6 @@
       "log",
       "logging",
       "long range",
-      "mamba",
       "mode",
       "modes",
       "names",
@@ -283,8 +281,6 @@
       "tune",
       "tx5m.1",
       "tx800",
-      "ultra",
-      "ultra 1000",
       "unify",
       "unify pro",
       "utility",
@@ -1322,28 +1318,6 @@
         "vtxtable"
       ],
       "author": "Betaflight",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/diatone_mamba_ultra_1000.txt",
-      "hash": "f058b040995b0054977e5a70298cc26b699ea7c64d825e55fbf55905b3aac74e",
-      "title": "Diatone Mamba Ultra 1000 VTX Tables",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "diatone",
-        "mamba",
-        "ultra",
-        "ultra 1000"
-      ],
-      "author": "NemesisXB",
       "priority": 1000000
     },
     {
